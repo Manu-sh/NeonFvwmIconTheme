@@ -5,7 +5,7 @@ you can found the gtk theme [here](https://github.com/Manu-sh/NeonFvwmGtkTheme)
 
 ![screenshot](https://anonimag.es/i/22_02_2017-155501_xorg902fa.png)
 
-###Installation
+### Installation
 ```bash
 git clone https://github.com/Manu-sh/NeonFvwmIconTheme
 cd NeonFvwmIconTheme
